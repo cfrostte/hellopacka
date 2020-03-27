@@ -1,0 +1,8 @@
+{
+    "name": "cf/hellopacka",
+    "description": "Mi primer libreria con Composer",
+    "require": {
+        "php": "^5",
+        "another-vendor/package": "1.*"
+    }
+}
