@@ -1,7 +1,7 @@
 {
-    "name": "hellopacka/hellopacka",
+    "name": "cfrostte/hellopacka",
     "type": "library",
-    "description": "Mi primer libreria con Composer",
+    "description": "Mi primer libreria con Composer y Packagist",
     "keywords": [
         "hello",
         "packa"
