@@ -2,7 +2,6 @@
     "name": "cfcorp/hellopacka",
     "description": "Mi primer libreria con Composer",
     "require": {
-        "php": "^5",
-        "another-vendor/package": "1.*"
+        "php": "^5"
     }
 }
