@@ -1,7 +1,27 @@
 {
-    "name": "cfcorp/hellopacka",
+    "name": "hellopacka/hellopacka",
+    "type": "library",
     "description": "Mi primer libreria con Composer",
+    "keywords": [
+        "hello",
+        "packa"
+    ],
+    "homepage": "https://github.com/cfrostte/hellopacka",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Carlos Frostte",
+            "email": "carlos@frostte.com",
+            "homepage": "https://www.carlosfrostte.com",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "php": "^5"
+    },
+    "autoload": {
+        "psr-0": {
+            "HelloPacka": "src"
+        }
     }
 }
