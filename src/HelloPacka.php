@@ -3,7 +3,7 @@
 class HelloPacka {
 
     public static function test() {
-        echo "TEST - 1\n";
+        echo "TEST - 2\n";
     }
 
 }
